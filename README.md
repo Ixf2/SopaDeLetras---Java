@@ -98,7 +98,7 @@ CREATE TABLE palabras(
 ## 1. Clonar repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/SopaDeLetras.git
+git clone https://github.com/Ixf2/SopaDeLetras---Java
 ```
 
 ---
