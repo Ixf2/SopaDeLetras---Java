@@ -16,6 +16,7 @@ public class SopaDeLetras {
 
         ControladorSopa controlador = new ControladorSopa(vista, modelo);
 
+        
         vista.setVisible(true);
 
     }

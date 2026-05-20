@@ -53,8 +53,8 @@ public class ControladorSopa implements ActionListener {
         return;
     }
 
-    if (palabra.length() > 10) {
-        JOptionPane.showMessageDialog(vista, "La palabra supera el tamaño máximo permitido (10 letras)");
+    if (palabra.length() > 20) {
+        JOptionPane.showMessageDialog(vista, "La palabra supera el tamaño máximo permitido (20 letras)");
         vista.getTfPalabra().setText("");
         return;
     }
